@@ -14,3 +14,8 @@ Ensure you have the following installed on your laptop:
 
    ```bash
    git clone https://github.com/Vatsal2006350/masa_automization.git
+
+## Download modules and run file
+```bash
+pip install -r requirements.txt
+python main.py
