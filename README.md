@@ -13,4 +13,4 @@ Ensure you have the following installed on your laptop:
 2. Clone the repository using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/Vatsal2006350/masa_automization.git
