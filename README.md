@@ -1,13 +1,5 @@
 # MASA Automizxation Project
 
-
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Clone the Repository](#clone-the-repository)
-- [Setup](#setup)
-- [Usage](#usage)
-
 ## Prerequisites
 
 Ensure you have the following installed on your laptop:
