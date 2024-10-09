@@ -1,6 +1,5 @@
-# Project Name
+# MASA Automizxation Project
 
-A brief description of your project.
 
 ## Table of Contents
 
@@ -8,8 +7,6 @@ A brief description of your project.
 - [Clone the Repository](#clone-the-repository)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
